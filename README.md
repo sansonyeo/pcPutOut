@@ -5,7 +5,7 @@
 윈도우 10/11 에 전원 기능(특히 최대절전모드)을 버튼 한번으로 PC 종료 하는 프로그램으로 보시면 될듯 합니다.<br>
 <br>
 기타 궁금하신 분은 whitedovey@gmail.com 로 문의 주세요.<br>
-<br>
+<br><br>
 개발툴 ==> Visual Studio 2022<br>
 개발언어 ==> C#<br>
 개발플랫폼 ==> OS : Windows, 프레임워크 : .NET 8.0, 출력 유형 : Windows Application (Windows Forms)<br>
